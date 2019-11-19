@@ -1,3 +1,30 @@
 body {
   font-family: sans-serif;
 }
+#app {
+  width: 1000px;
+  height: auto;
+  margin: auto;
+}
+#menu {
+  float: right;
+}
+#menu a {
+  color: #670001;
+  text-decoration: none;
+  margin-right: 15px;
+}
+#logo {
+  float: left;
+}
+article {
+  width: 200px;
+  float: left;
+  margin-left: 25px;
+  margin-right: 15px;
+}
+footer {
+  clear: both;
+  text-align: center;
+  padding: 45px;
+}
